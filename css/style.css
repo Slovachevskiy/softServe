@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	background-image:url(../image/slider.JPG);
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover; 
+	height:700px;
+	width:100%;
+	
+	}
+.slider{
+	width:100%;
+	}
+.logo{
+	float:left;
+	width:100%;
+	}
+.navMen{
+	width:100%;
+	}
+h1,h2{
+	text-align:center;
+	}
+.textJustify{
+	text-align:justify;
+	}
+.button{
+	text-align:center;
+	border:0;
+	border-radius:10px;
+	width:100%;
+	height:40px;
+	background:#ffde00;
+	font:bold;
+	}
+.button:hover{
+	background:#ff5013;
+	}
+#ourFeatures{
+	margin-top:25px;
+	margin-bottom:25px;
+	}
+.marg{
+	margin-top:25px;}
+.textCenter{
+	text-align:center;}
+.border{
+	border:1px solid;
+	border-radius:15px;
+	padding:15px;
+	margin:10px 0;
+	background:#ffffff;
+	}
+.featuresImg{
+	width:100%;
+	background:#ff5013;
+	border:1px solid;
+	}
+#testemonials{
+	background:#e6e6e6;
+	padding:10px 0px 25px 0px;
+	}
+.face{
+	width:100%;
+	}
+.borderOrder{
+	border:1px solid;
+	border-radius:15px;
+	padding:15px;
+	margin:10px 0;
+	background:#ffffff;
+	font-weight:bold;
+	}
+.borderOrder:hover{
+	border:1px solid;
+	border-radius:15px;
+	padding:15px;
+	margin:10px 0;
+	background:#f3f3f3;
+	font-weight:bold;
+	box-shadow:0px 0px 25px #83817c;
+	}
+.from{
+	margin-top:35px;
+	font-size:25px;
+	color:#3f3d40;
+	}
+.dolar{
+	font-size:35px;
+	color:#ffde00;
+	}	
+.price{
+	font-size:35px;
+	color:#ff5013;
+	}
+.perPage{
+	font-size:25px;
+	color:#3f3d40;
+	}
+.buttonSmall{
+	text-align:center;
+	border:0;
+	border-radius:10px;
+	width:60%;
+	height:40px;
+	background:#ffde00;
+	font:bold;
+	margin:20% 20% 1% 20%;
+	}
+.borderOrder:hover .buttonSmall{
+	background:#ff5013;
+	}
+.footerNav{
+	background:#e6e6e6;
+	}
+.footerContact{
+	margin-bottom:10px;
+	}
+.footerForm{
+	margin-top:20px;
+	}
+.footerArea{
+	width:100%;
+	margin:10px 0;}
